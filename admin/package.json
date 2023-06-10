@@ -1,0 +1,45 @@
+{
+    "name": "aqua",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "serve": "vue-cli-service serve",
+        "build": "vue-cli-service build",
+        "lint": "vue-cli-service lint"
+    },
+    "dependencies": {
+        "@fullcalendar/core": "^5.11.4",
+        "@fullcalendar/daygrid": "^5.11.4",
+        "@fullcalendar/interaction": "^5.11.0",
+        "@fullcalendar/list": "^6.1.5",
+        "@fullcalendar/resource-timegrid": "^5.11.0",
+        "@fullcalendar/timegrid": "^5.11.4",
+        "audio-recorder-vue": "^3.0.2",
+        "axios": "^0.21.1",
+        "bootstrap": "^4.5.3",
+        "bootstrap-vue": "^2.20.1",
+        "core-js": "^3.6.5",
+        "mitt": "^3.0.0",
+        "moment": "^2.29.3",
+        "primeicons": "^4.1.0",
+        "primevue": "^2.5.1",
+        "quill": "^1.3.7",
+        "vue": "^2.6.12",
+        "vue-class-component": "^7.2.3",
+        "vue-owl-carousel": "^2.0.3",
+        "vue-property-decorator": "^8.4.2",
+        "vue-router": "^3.2.0",
+        "vue-tel-input": "^5.6.2",
+        "vue2-google-maps": "^0.10.7"
+    },
+    "devDependencies": {
+        "@vue/cli-plugin-babel": "~4.5.0",
+        "@vue/cli-plugin-router": "~4.5.0",
+        "@vue/cli-plugin-typescript": "~4.5.0",
+        "@vue/cli-service": "~4.5.0",
+        "node-sass": "^4.12.0",
+        "sass-loader": "^8.0.2",
+        "typescript": "~3.9.3",
+        "vue-template-compiler": "^2.6.11"
+    }
+}

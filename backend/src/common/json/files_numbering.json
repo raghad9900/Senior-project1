@@ -1,0 +1,41 @@
+{
+    "general": [
+        "city",
+        "taxes",
+        "floor_locations",
+        "payment_methods",
+        "delivary_zones",
+        "devices",
+        "printers",
+        "color",
+        "size",
+        "weight"
+    ],
+    "inventory": [
+        "inventory_items",
+        "suppliers",
+        "warehouses",
+        "item_units",
+        "item_units_exchange",
+        "item_sections",
+        "price_policy",
+        "sub_category",
+        "categories",
+        "modifiers",
+        "products",
+        "corrupted",
+        "opening_balance",
+        "opening_balance_no_cost",
+        "purchase_order",
+        "stocktaking",
+        "transfer",
+        "production"
+    ],
+    "pos": [
+        "knowlage_methods",
+        "tables",
+        "cancellation_reasons",
+        "customers",
+        "customerGroups"
+    ]
+}

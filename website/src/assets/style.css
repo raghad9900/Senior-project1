@@ -1,0 +1,181 @@
+body {
+    background-color: #f6f6f6;
+    font-family: 'Roboto', sans-serif;
+}
+
+.p-menubar {
+    padding: 0.5rem;
+    background: #fff;
+    border: none;
+    border-radius: 10px;
+    color: #495057;
+    box-shadow: 0 2px 10px #03030310;
+}
+
+.btn-home {
+    color: #030303;
+    font-size: 31px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px #03030310;
+}
+
+.btn-blue {
+    background-color: #01425b;
+    color: #fff;
+    margin-top: 20px;
+    font-size: 28px;
+}
+
+.home {
+    overflow: hidden;
+}
+
+.top-section {
+    background-color: #3eb5e1;
+    box-shadow: 0 2px 10px #03030310;
+    padding-bottom: 8rem !important;
+    color: #fff;
+}
+
+.top-section h1 {
+    font-weight: bold;
+}
+
+.bottom-section {
+    padding-top: 0 !important;
+    color: #fff;
+    margin-top: -127px !important;
+}
+
+.bottom-section p {
+    font-size: 29px;
+    font-weight: bold;
+}
+
+.upcoming {
+    background-color: #9fd2e5;
+}
+
+.Canceled {
+    background-color: #d09798;
+}
+
+.biding {
+    background-color: #eded9b;
+}
+
+.new {
+    background-color: #f5554a;
+    color: #fff;
+}
+
+.fixed {
+    background-color: #97d09b;
+}
+
+.home-card .date,
+.home-card .pi-arrow-right {
+    color: #030303;
+}
+
+.home-card .header {
+    color: #777676;
+}
+
+.home-card .date,
+.home-card .header {
+    font-size: 14px;
+}
+
+.home-card .speedbtn {
+    position: absolute;
+    right: 3px;
+    top: 0px;
+}
+
+.home-card .speedbtn .fa {
+    color: #777676;
+}
+
+.home-card .speedbtn .p-speeddial {
+    display: block;
+    position: static;
+}
+
+.upcoming .p-chip-text {
+    font-size: 14px;
+    color: #234926;
+}
+
+.home p {
+    color: #777676;
+    font-size: 20px;
+}
+
+.home-part {
+    margin-top: 2rem;
+}
+
+.home-part p {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0;
+}
+
+.home-part h3 {
+    color: #030303;
+    font-weight: bold;
+    border: solid #696cff;
+    border-width: 0 0 0 6px;
+    padding-left: 19px;
+}
+
+.home-card .p-card-content {
+    padding: 0;
+}
+
+.row-box {
+    display: flex;
+}
+
+.col-box {
+    width: 50%;
+    display: inline-block;
+}
+
+.col-box img {
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 2px 1px -1px rgba(0, 0, 0, 0.2), 0 1px 1px 0 rgba(0, 0, 0, 0.14), 0 1px 3px 0 rgba(0, 0, 0, 0.12);
+}
+
+.col-box p {
+    font-size: 14px;
+    margin-bottom: 0;
+}
+
+.col-box h3,
+.col-box .text {
+    color: #030303;
+}
+
+.col-box h3 {
+    font-weight: bold;
+}
+
+.col-box h3 {
+    font-weight: bold;
+}
+
+.notfy i {
+    color: #495057 !important;
+}
+
+.notfy .p-badge {
+    color: #f6f6f6 !important;
+    font-size: 0.75rem !important;
+    font-weight: 700 !important;
+    min-width: 1rem !important;
+    height: 1rem !important;
+    line-height: 1rem !important;
+}

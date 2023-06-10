@@ -1,0 +1,7 @@
+{
+
+    "PORT": 6655,
+    "MONGODB_URI": "mongodb://localhost:27017/",
+    "MONGODB_DB": "homeHere",
+    "SECRET_KEY": "bbbbbbbbbbb"
+}
